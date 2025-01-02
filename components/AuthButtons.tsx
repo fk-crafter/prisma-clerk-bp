@@ -31,7 +31,7 @@ export default function AuthButtons() {
 
         <SignedIn>
           <p className="text-lg font-semibold text-gray-300">
-            your already have an account
+            you already have an account
           </p>
           <div className="flex gap-6">
             <button
